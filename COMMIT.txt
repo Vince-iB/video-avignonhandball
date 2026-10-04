@@ -1,1 +1,1 @@
-feat: refondre administration et ajouter la modification complète v0.0.3
+style: restaure le fond sombre et éclaircit les cartouches
