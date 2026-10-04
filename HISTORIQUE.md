@@ -30,3 +30,10 @@
 ### V0.0.6
 - Version de production consolidée depuis la V0.0.5.
 - Aucun changement fonctionnel ni modification du schéma Supabase.
+
+## V0.0.7
+- Recherche instantanée des matchs par clubs, équipes et date.
+- Plusieurs vidéos ou liens par événement avec titre facultatif, type, URL et ordre.
+- Affichage domicile à gauche et extérieur à droite avec leurs logos respectifs.
+- Une fiche par événement et une ligne par lien.
+- Numéro de version affiché dans l'interface.
