@@ -25,3 +25,8 @@
 - Vue utilisateur en liste de modules indépendants.
 - Filtres par jour et catégorie, catégorie masquée lorsqu'elle est unique.
 - Fond sombre conservé avec modules semi-sombres.
+
+
+### V0.0.6
+- Version de production consolidée depuis la V0.0.5.
+- Aucun changement fonctionnel ni modification du schéma Supabase.

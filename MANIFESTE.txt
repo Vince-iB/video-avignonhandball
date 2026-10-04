@@ -1,4 +1,4 @@
-Version V0.0.4
-Fichier modifie : app/globals.css
-Objet : fond sombre conserve, cartouches plus clairs.
-Migration SQL : non.
+Version V0.0.6
+Base : V0.0.5
+Fichiers modifies : package.json, package-lock.json, HISTORIQUE.md, README.md, COMMIT.txt
+Migration SQL : non

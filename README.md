@@ -1,4 +1,6 @@
-# Vidéo Avignon Handball V0.0.5
-1. Exécuter `supabase/migration-v0.0.5.sql`.
-2. Publier l'archive Production.
-3. Contrôler Vercel puis créer un contenu lié à un match.
+## Vidéo Avignon Handball V0.0.6
+
+- Publier l’archive Production à la racine du dépôt.
+- Les variables Vercel existantes sont conservées.
+- Aucune migration SQL supplémentaire pour cette version.
+- Le schéma requis reste celui de la V0.0.5.

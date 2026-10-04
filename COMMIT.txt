@@ -1,1 +1,1 @@
-feat: relier les contenus aux matchs de la regie v0.0.5
+chore: publier la version de production v0.0.6
