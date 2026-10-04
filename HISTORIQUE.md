@@ -57,3 +57,11 @@
 - Suppression de l’erreur link_id nul lors de la création d’un événement.
 - Le bouton de ligne est désactivé tant que l’événement n’existe pas.
 - Le bouton général Enregistrer crée ensemble l’événement et ses liens.
+
+### V0.0.12
+- Recherche textuelle instantanée dans la vue utilisateur.
+- Recherche sur les titres, descriptions, catégories, clubs et intitulés des liens.
+- Filtre par date précise et filtre permanent par catégorie.
+- Tri par date du plus récent au plus ancien ou du plus ancien au plus récent.
+- Compteur de résultats et réinitialisation complète des filtres.
+- Numéro de version V0.0.12 affiché dans l'interface.

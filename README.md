@@ -1,3 +1,3 @@
-## Vidéo Avignon Handball V0.0.11
+### Vidéo Avignon Handball V0.0.12
 
-Correctif de création des liens avant création de l’événement. Aucune migration SQL.
+Recherche textuelle, filtres date/catégorie et tri chronologique dans la vue utilisateur. Aucune migration SQL.
