@@ -1,4 +1,5 @@
-Version V0.0.11
-Base : V0.0.10
-Correctif : aucun POST link_items avant creation du parent links.
-Migration SQL : non.
+Version V0.0.13
+Base : V0.0.12
+Fonctions : statistiques 30 jours, acces, ouvertures, codes, medias, jours, pays, regions, villes.
+Correctif categories : retrait 0 lien et undefined categorie.
+Migration SQL : oui, supabase/migration-v0.0.13.sql.

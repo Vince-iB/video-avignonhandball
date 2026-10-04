@@ -1,1 +1,1 @@
-feat: ajouter recherche filtres et tri utilisateur v0.0.12
+feat: ajouter statistiques et corriger affichage categories v0.0.13

@@ -1,3 +1,3 @@
-### Vidéo Avignon Handball V0.0.12
+## Vidéo Avignon Handball V0.0.13
 
-Recherche textuelle, filtres date/catégorie et tri chronologique dans la vue utilisateur. Aucune migration SQL.
+Exécuter supabase/migration-v0.0.13.sql puis publier la Production.

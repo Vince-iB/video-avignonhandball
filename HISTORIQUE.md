@@ -65,3 +65,9 @@
 - Tri par date du plus récent au plus ancien ou du plus ancien au plus récent.
 - Compteur de résultats et réinitialisation complète des filtres.
 - Numéro de version V0.0.12 affiché dans l'interface.
+
+
+### V0.0.13
+- Tableau de statistiques complet : accès, ouvertures, codes, médias, tendances et géographie disponible.
+- Collecte géographique via les en-têtes Vercel sans stockage de l’adresse IP.
+- Correction de l’affichage des catégories : suppression des mentions 0 lien et undefined catégorie.
