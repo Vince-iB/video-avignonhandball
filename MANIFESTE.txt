@@ -1,4 +1,2 @@
-Version V0.0.9
-Base : V0.0.8
-Correctifs : connexion admin sans F5 ; zone liens visible a la creation ; URL obligatoire ; creation evenement et liens en une validation.
+V0.0.10
 Migration SQL : non.

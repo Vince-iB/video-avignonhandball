@@ -1,1 +1,1 @@
-fix: corriger la connexion admin et la creation des evenements v0.0.9
+fix: gerer automatiquement erreur jwt issued at future v0.0.10

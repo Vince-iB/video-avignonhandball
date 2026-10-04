@@ -46,7 +46,8 @@
 
 
 ### V0.0.9
-- Correction de l’affichage immédiat de l’administration après connexion.
-- Restauration de la zone Vidéos et liens dès la création d’un événement.
-- Création de l’événement et de son premier lien en une seule validation.
-- Au moins une URL valide est obligatoire.
+- Correctifs connexion admin et création des événements avec liens.
+
+### V0.0.10
+- Gestion automatique de l’erreur Supabase PGRST303 JWT issued at future.
+- Nouvelles tentatives ciblées avant affichage d’une erreur.
