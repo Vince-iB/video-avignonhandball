@@ -1,1 +1,1 @@
-fix: gerer automatiquement erreur jwt issued at future v0.0.10
+fix: empecher ajout lien sans evenement parent v0.0.11

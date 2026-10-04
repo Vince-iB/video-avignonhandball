@@ -1,3 +1,3 @@
-## Vidéo Avignon Handball V0.0.10
+## Vidéo Avignon Handball V0.0.11
 
-Aucune migration SQL. Variables Vercel inchangées.
+Correctif de création des liens avant création de l’événement. Aucune migration SQL.

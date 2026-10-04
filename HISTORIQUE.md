@@ -51,3 +51,9 @@
 ### V0.0.10
 - Gestion automatique de l’erreur Supabase PGRST303 JWT issued at future.
 - Nouvelles tentatives ciblées avant affichage d’une erreur.
+
+
+### V0.0.11
+- Suppression de l’erreur link_id nul lors de la création d’un événement.
+- Le bouton de ligne est désactivé tant que l’événement n’existe pas.
+- Le bouton général Enregistrer crée ensemble l’événement et ses liens.
