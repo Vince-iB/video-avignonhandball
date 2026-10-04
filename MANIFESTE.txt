@@ -1,4 +1,4 @@
-Version V0.0.6
-Base : V0.0.5
-Fichiers modifies : package.json, package-lock.json, HISTORIQUE.md, README.md, COMMIT.txt
-Migration SQL : non
+Version V0.0.8
+Base : V0.0.7
+Fichiers modifies : package.json, package-lock.json, components/Header.tsx, HISTORIQUE.md, README.md, COMMIT.txt
+Migration SQL : non, sous réserve que migration-v0.0.7.sql soit déjà exécutée.

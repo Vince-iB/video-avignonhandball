@@ -37,3 +37,9 @@
 - Affichage domicile à gauche et extérieur à droite avec leurs logos respectifs.
 - Une fiche par événement et une ligne par lien.
 - Numéro de version affiché dans l'interface.
+
+
+### V0.0.8
+- Version de production consolidée depuis la V0.0.7.
+- Numéro de version mis à jour dans l’interface.
+- Aucun changement fonctionnel ni modification supplémentaire du schéma Supabase.
