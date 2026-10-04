@@ -43,3 +43,10 @@
 - Version de production consolidée depuis la V0.0.7.
 - Numéro de version mis à jour dans l’interface.
 - Aucun changement fonctionnel ni modification supplémentaire du schéma Supabase.
+
+
+### V0.0.9
+- Correction de l’affichage immédiat de l’administration après connexion.
+- Restauration de la zone Vidéos et liens dès la création d’un événement.
+- Création de l’événement et de son premier lien en une seule validation.
+- Au moins une URL valide est obligatoire.

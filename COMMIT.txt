@@ -1,1 +1,1 @@
-chore: publier la version de production v0.0.8
+fix: corriger la connexion admin et la creation des evenements v0.0.9

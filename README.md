@@ -1,6 +1,6 @@
-## Vidéo Avignon Handball V0.0.8
+## Vidéo Avignon Handball V0.0.9
 
 - Publier l’archive Production à la racine du dépôt.
-- Les variables Vercel existantes sont conservées.
-- Aucune nouvelle migration SQL pour cette version.
-- La migration V0.0.7 doit déjà avoir été exécutée.
+- Correctifs connexion admin et création complète des événements.
+- Aucune nouvelle migration SQL.
+- La migration V0.0.7 doit déjà être exécutée.

@@ -1,4 +1,4 @@
-Version V0.0.8
-Base : V0.0.7
-Fichiers modifies : package.json, package-lock.json, components/Header.tsx, HISTORIQUE.md, README.md, COMMIT.txt
-Migration SQL : non, sous réserve que migration-v0.0.7.sql soit déjà exécutée.
+Version V0.0.9
+Base : V0.0.8
+Correctifs : connexion admin sans F5 ; zone liens visible a la creation ; URL obligatoire ; creation evenement et liens en une validation.
+Migration SQL : non.
