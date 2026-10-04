@@ -1,1 +1,1 @@
-style: restaure le fond sombre et éclaircit les cartouches
+feat: relier les contenus aux matchs de la regie v0.0.5

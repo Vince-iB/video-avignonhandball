@@ -16,3 +16,12 @@
 - Activation, désactivation et suppression depuis les listes.
 - Retours visuels, états de chargement et confirmations de suppression.
 - Interface publique éclaircie et cartes de contenus compactes.
+
+## V0.0.5
+- Liaison facultative d'un contenu à un match de la Régie.
+- Sélection d'une rencontre existante et récupération du score.
+- Récupération du logo et du nom du club adverse.
+- Saisie manuelle de l'adversaire, du logo et du score si le match est absent.
+- Vue utilisateur en liste de modules indépendants.
+- Filtres par jour et catégorie, catégorie masquée lorsqu'elle est unique.
+- Fond sombre conservé avec modules semi-sombres.
