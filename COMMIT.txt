@@ -1,1 +1,1 @@
-feat: ajouter statistiques et corriger affichage categories v0.0.13
+feat: personnaliser la page accueil et ajouter le logo v0.0.14

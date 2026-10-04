@@ -1,0 +1,1 @@
+import{NextResponse}from"next/server";import{db}from"@/lib/supabase";export async function GET(){const{data,error}=await db().from("video_settings").select("setting_key,setting_value");if(error)return NextResponse.json({},{status:200});return NextResponse.json(Object.fromEntries((data||[]).map(x=>[x.setting_key,x.setting_value]))) }

@@ -71,3 +71,10 @@
 - Tableau de statistiques complet : accès, ouvertures, codes, médias, tendances et géographie disponible.
 - Collecte géographique via les en-têtes Vercel sans stockage de l’adresse IP.
 - Correction de l’affichage des catégories : suppression des mentions 0 lien et undefined catégorie.
+
+#### V0.0.14
+- Administration des trois textes de la page d’accueil : surtitre, titre principal et introduction.
+- Import, aperçu, remplacement et suppression du logo d’accueil.
+- Logo affiché à droite des textes, redimensionné sans déformation.
+- Emplacement du logo entièrement masqué lorsqu’aucun logo n’est défini.
+- Numéro de version V0.0.14 affiché dans l’interface.
