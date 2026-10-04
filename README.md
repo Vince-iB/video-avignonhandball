@@ -1,7 +1,6 @@
-# Vidéo Avignon Handball V0.0.2
+# Vidéo Avignon Handball V0.0.3
 
-1. Exécuter `supabase/migration-v0.0.2.sql` dans Supabase.
-2. Publier l’archive Production à la racine de GitHub.
-3. Vérifier le déploiement Vercel.
+Publier l’archive Production à la racine du dépôt. Les variables Vercel existantes sont conservées.
 
-Variables Vercel conservées : `SUPABASE_URL`, `SUPABASE_SECRET_KEY`, `ADMIN_ID`, `ADMIN_PASSWORD`, `SESSION_SECRET`.
+## Supabase
+Aucune migration SQL pour cette version. La V0.0.3 utilise le schéma de la V0.0.2.
