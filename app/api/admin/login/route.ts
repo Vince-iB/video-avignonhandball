@@ -1,0 +1,2 @@
+import{NextResponse}from"next/server";import{sign}from"@/lib/session";
+export async function POST(req:Request){const f=await req.formData();if(f.get("id")!==process.env.ADMIN_ID||f.get("password")!==process.env.ADMIN_PASSWORD)return NextResponse.json({error:"bad"},{status:401});const r=NextResponse.json({ok:true});r.cookies.set("admin_session",sign("admin"),{httpOnly:true,secure:process.env.NODE_ENV==="production",sameSite:"strict",maxAge:86400,path:"/"});return r}

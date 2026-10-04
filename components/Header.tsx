@@ -1,0 +1,2 @@
+import Link from "next/link";
+export default function Header({admin=false}:{admin?:boolean}){return <header className="topbar"><Link href="/" className="brand" style={{textDecoration:"none",color:"inherit"}}><span className="mark">AV</span><span><span className="eyebrow">Avignon Handball</span><h1>{admin?"Administration":"Médiathèque"}</h1></span></Link>{admin?<form action="/api/admin/logout" method="post"><button className="btn secondary small">Déconnexion</button></form>:null}</header>}
